@@ -1,2 +1,2 @@
 # near-boundary-data
-Code Repository
+Repository for the paper Interesting Near-boundary Data: Model Ownership Inference
